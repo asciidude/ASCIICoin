@@ -7,9 +7,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/asciidude" target="_blank">
-    <img alt="Twitter: asciidude" src="https://img.shields.io/twitter/follow/asciidude.svg?style=social" />
-  </a>
 </p>
 
 > A simple crypto-currency made in JavaScript
