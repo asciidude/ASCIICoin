@@ -1,0 +1,16 @@
+{
+  "name": "asciicoin",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
