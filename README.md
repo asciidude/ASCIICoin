@@ -14,12 +14,6 @@
 
 > A simple crypto-currency made in JavaScript
 
-## Install
-
-```sh
-npm i asciicoin --save (not avaliable yet)
-```
-
 ## Author
 
 👤 **asciidude**
